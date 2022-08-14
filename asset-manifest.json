@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tomato-timer-app/static/css/main.0b4e74b4.css",
+    "main.js": "/tomato-timer-app/static/js/main.fed48e42.js",
+    "static/js/787.973c3284.chunk.js": "/tomato-timer-app/static/js/787.973c3284.chunk.js",
+    "static/media/focus.svg": "/tomato-timer-app/static/media/focus.1232b2ac62404532cfb1a13d186b6e5e.svg",
+    "index.html": "/tomato-timer-app/index.html",
+    "main.0b4e74b4.css.map": "/tomato-timer-app/static/css/main.0b4e74b4.css.map",
+    "main.fed48e42.js.map": "/tomato-timer-app/static/js/main.fed48e42.js.map",
+    "787.973c3284.chunk.js.map": "/tomato-timer-app/static/js/787.973c3284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.fed48e42.js"
+  ]
+}
